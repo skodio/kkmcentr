@@ -42,7 +42,7 @@ header {
 #touch-menu {display: none;}
 
 @media (max-width: 1200px) {
-
+  
 	header {
 		padding-left: 0px;
 		top: 0;
@@ -81,12 +81,12 @@ header {
 }
 
 .searcher{
-  margin: 0 auto;
+
   overflow: hidden;
 }
 .searcher input{
 
-	width: 240px;
+	width: 300px;
 	float:left;
   height:36px;
 }
@@ -116,4 +116,7 @@ body{
 .eq-third{
   background-color: #7690C9;
   padding-top: 40px;
+}
+.banner{
+  width: 100%;
 }
